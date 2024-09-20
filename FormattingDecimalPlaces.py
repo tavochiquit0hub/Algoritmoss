@@ -11,3 +11,4 @@ try:
     print(f"El número redondeado a dos decimales es: {rounded_number:.2f}")
 except ValueError:
     print("Por favor, ingresa un número válido.")
+    print("Que onda prueba practica 1.4")
