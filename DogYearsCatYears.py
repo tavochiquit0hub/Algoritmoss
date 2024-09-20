@@ -29,3 +29,4 @@ humanYears = 5
 result = calculate_ages(humanYears)
 print(result)  # Output: [5, 28, 34]
 print(type(result))
+print(result)
